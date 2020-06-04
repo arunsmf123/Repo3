@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E612-6022
+
+ Directory of C:\Users\arun\Desktop\My Project
+
+04-06-2020  19:48    <DIR>          .
+04-06-2020  19:48    <DIR>          ..
+04-06-2020  19:48                 0 test3.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  564,237,713,408 bytes free
